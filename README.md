@@ -15,8 +15,8 @@ It uses intelligent agents, FAISS for vector search, and OpenAI GPT-3.5 via Lang
 
 1. Clone the Repository
    ``` sh
-   git clone https://github.com/Jintuvc/rag.git
-   cd rag
+   git clone https://github.com/Jintuvc/AI.git
+   cd AI
    ```
 2. Create a Virtual Environment
    ```
